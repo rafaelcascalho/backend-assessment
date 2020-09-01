@@ -1,0 +1,7 @@
+__pycache__
+db_data
+kafka_data
+pg_data
+zookeeper_data
+notes
+*.env
