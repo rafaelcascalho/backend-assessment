@@ -3,8 +3,6 @@ from sqlalchemy import create_engine, MetaData
 from sqlalchemy.orm import sessionmaker
 from infra import models
 from contextlib import contextmanager
-#from .core.services import EventService
-#from .auth.services import AuthService
 from infra.repositories import UserSQLRepository, TokenRepository
 
 
